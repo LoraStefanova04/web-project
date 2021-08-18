@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:darkkhaki;
+}
+
+.btn{
+    padding: .55em;
+    background-color: rgb(116, 116, 214);
+    text-decoration: none;
+    color: #fff;
+    border-radius: 15px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+.btn:hover{
+    background-color: rgb(56, 56, 133);
+}
+
+.card{
+    padding: 1em;
+    background-color: #dadada;
+    margin-bottom: 20px;
+    display: inline-block;
+    border-radius: 25px;
+    margin: 2em;
+    box-shadow: 5px 5px 15px 2px #000;
+}
+
+h1{
+    margin-bottom: 10px;
+}
